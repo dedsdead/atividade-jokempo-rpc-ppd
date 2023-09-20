@@ -1,6 +1,6 @@
 # atividade-jokempo-rpc-ppd
 
-### Aplicação desenvolvida em python criando uma função simples que simula um jogo de Pedra, Papel e Tesoura,
+### Aplicação desenvolvida em python que simula um jogo de Pedra, Papel e Tesoura,
 ### aplicando os conceitos de Remote Procedure Call aprendidos na disciplina 
 ### de Programação Paralela e Distribuída.
 
